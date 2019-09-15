@@ -1,15 +1,14 @@
-THIS REPOSITORY INCLUDES  BASIC JAVA PROGRAMMING  PROGRAMS IN WHICH  I HAVE COVERED  FOLLOWING TOPICS
+This repository includes basic java programming program concepts listed below
 
+1.Inheritance
 
-1.INHERITANCE
+2.Method overriding
 
-2.METHOD OVERRIDING
+3.Method overloading
 
-3.METHOD OVERLOADING
+4.Abstract classes
 
-4.ABSTRACT CLASSES
+5.Printing patterns
 
-5.PRINTING PATTERN
-
-6.MULTITHREADING
+6.Multithreading
 
